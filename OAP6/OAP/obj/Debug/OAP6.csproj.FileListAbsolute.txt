@@ -1,0 +1,7 @@
+D:\1\OAP\OAP\bin\Debug\OAP.exe.config
+D:\1\OAP\OAP\bin\Debug\OAP.exe
+D:\1\OAP\OAP\bin\Debug\OAP.pdb
+D:\1\OAP\OAP\obj\Debug\OAP6.csproj.CoreCompileInputs.cache
+D:\1\OAP\OAP\obj\Debug\OAP.exe
+D:\1\OAP\OAP\obj\Debug\OAP.pdb
+D:\1\OAP\OAP\obj\Debug\OAP6.csprojResolveAssemblyReference.cache
